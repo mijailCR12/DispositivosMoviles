@@ -7,11 +7,10 @@ public class Ducati extends Moto{
 		// TODO Auto-generated method stub
 		return "Ducati";
 	}
-
+	
 	@Override
 	public String getMachineName() {
 		// TODO Auto-generated method stub
 		return tipo();
 	}
-
 }
